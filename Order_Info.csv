@@ -1,0 +1,6 @@
+order_id,cutomer_id,order_status,order_date,store_id,store_info_store_id
+400,100,delivered,2022-10-09,800,800
+401,101,delivered,2002-10-09,801,801
+402,102,delivered,2021-08-01,802,802
+403,103,delivered,2021-02-09,803,803
+404,104,delivered,2021-10-19,804,804

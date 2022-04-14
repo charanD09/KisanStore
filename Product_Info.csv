@@ -1,0 +1,6 @@
+product_name,product_id,Cost,brand_id,customer_id
+pen,200,200.0,9000,100
+pencil,201,20.0,9001,101
+cloth,202,2006.0,9002,102
+crafts,203,100.0,9003,103
+colors,204,160.0,9004,104
